@@ -1,5 +1,6 @@
 | URL du logiciel libre                                            | URL du labo contributeur principal                                        |
-|------------------------------------------------------------------|---------------------------------------------------------------------------|
+|------------------------------------------------------------------|---------------------------------------------------------------------------|                                         
+| <https://cytoscape.org>                                          | <https://www.pasteur.fr/fr>
 | <https://scikit-learn.org>                                       |                                                                            |
 | <https://db.nomics.world>                                       | <https://www.cepremap.fr/>                                                                          |
 | <https://dynare.org/>                                       | <https://www.cepremap.fr/>                                                                          |
